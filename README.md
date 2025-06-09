@@ -63,7 +63,7 @@ This is a **Java-based Selenium test automation framework** with integrated Test
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Tonykohh/Enyata_Interview_Repository.git
+git clone (https://github.com/Tonykohh/Enyata_Interview_completion)
 cd selenium-framework
 ```
 
@@ -96,7 +96,7 @@ mvn test
 * `waitForClickAbility()` and `waitForVisibility()` to sync tests
 * Retry-safe `click()` and `enterText()` to handle stale elements
 * `scrollToElement()` using JavaScript for dynamic UI scrolling
-* `clickBuyDataCard()` - custom utility for dynamic card-based UIs
+* `clickBuyCard()` - custom utility for dynamic card-based UIs
 
 ##  Highlights in `TestBase`
 
@@ -140,7 +140,7 @@ Feel free to fork and PR.
 
 ## 👨‍💻 Author
 
-Your Name — [tonykohh](https://github.com/tonykohh)
+[tonykohh](https://github.com/tonykohh)
 
 ---
 
